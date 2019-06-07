@@ -1,0 +1,8 @@
+body {
+    background-color: aquamarine;
+}
+h1, h2 {
+    text-align: center;
+    font-family:courier;
+    font-size: 20px;
+}
